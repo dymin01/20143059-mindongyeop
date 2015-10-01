@@ -1,4 +1,4 @@
-package kr.ac.embedded.kookmin.puzzle1;
+package kr.ac.kookmin.embedded.puzzle1;
 
 public class Boat {
 	private int length ;
@@ -7,6 +7,7 @@ public class Boat {
 	}
 	
 	public int getLength() {
+		return this.length;
 		  /** **/
 	}
 	
